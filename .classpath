@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src/java"/>
+	<classpathentry kind="src" path="src/test"/>
+	<classpathentry kind="lib" path="lib/foundry-abstracts.jar"/>
+	<classpathentry kind="lib" path="lib/foundry-datatype-core.jar"/>
+	<classpathentry kind="lib" path="lib/foundry-datatype-datamining.jar"/>
+	<classpathentry kind="lib" path="lib/meandre-server-1.4.8.jar"/>
+	<classpathentry kind="lib" path="lib/seasr-commons.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
